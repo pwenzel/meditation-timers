@@ -27,8 +27,8 @@ Download the files in MP3 format below:
 | [10 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.10.Minutes.mp3) | Single chime played at 10-minute mark |
 | [20 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.20.Minutes.mp3) | Double chime played at 20-minute mark |
 | [30 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.30.Minutes.mp3) | Triple chime played at 30-minute mark |
-| [60 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.60.Minutes.mp3) | Triple chime played at 30 and 60-minute mark |
-| [90 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.90.Minutes.mp3) | Single, double, and triple chimes played at 30-minute marks |
+| [60 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.60.Minutes.mp3) | Triple chime played at 30 and 60-minute intervals |
+| [90 Minutes](https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.90.Minutes.mp3) | Single, double, and triple chimes played at 30-minute intervals |
 
 
 ## Technical
