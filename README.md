@@ -6,6 +6,9 @@ It aims replace overly-complicated meditation timers and mobile apps that serve 
 
 These are not guided meditation sessions. There are no voices.
 
+Try a 3-minute session:
+
+<audio controls><source src="https://github.com/pwenzel/meditation-timers/releases/download/0.1/Meditation.Timer.3.Minutes.mp3" type="audio/mpeg"></source><em>Your browser does not support the audio element.</em></audio>
 
 ### Usage
 
